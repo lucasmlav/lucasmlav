@@ -5,14 +5,14 @@
 Me chamo Lucas Machado Lavinas, tenho 23 anos e sou natural do Espirito Santo. Estou cursando Engenharia da Computação na FAESA. Sou apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/lucasmlav?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/lucasmlav?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/lucasmlav?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
